@@ -37,7 +37,7 @@ This presentation provides a **comprehensive overview of LIGO’s components and
 
 ## File Included
 
-- `LIGO_Components_and_Operation.pptx`  
+- `LIGO_Presentation.pptx`  
 
 ---
 
